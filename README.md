@@ -1,1 +1,1 @@
-# CTF Solves
+# CTF Solvers
